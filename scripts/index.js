@@ -79,3 +79,5 @@ console.log("City: "+obj3.city); // op: City: Tiruppur
 console.log("Object element can be modified or deleted, but can't be added");
 console.log(obj3); // op: {authorName: 'NandhaKumar', city: 'Tiruppur', state: 'Tamil Nadu'}
 
+
+
